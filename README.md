@@ -1,7 +1,9 @@
 ## Introduction
 
 My Chatterino theme + config Okayeg 👍
+
 ![Comparison](https://raw.githubusercontent.com/felug0z/chatterino-theme/refs/heads/main/assets/comparison.png)
+
 ## Installation
 
 1. Install [Chatterino2](https://github.com/chatterino/chatterino2) or [Chatterino7](https://github.com/seventv/chatterino7)
