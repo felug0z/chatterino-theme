@@ -1,0 +1,61 @@
+{
+  "appearance": {
+    "currentFontSize": 12,
+    "messages": {
+      "showTimestamps": true,
+      "timestampFormat": "hh:mm:ss.zzz",
+      "alternateMessageBackground": true
+    },
+    "showReplyButton": true,
+    "tabVisibility": 0,
+    "thumbnailSize": 300,
+    "thumbnailSizeStream": 3,
+    "tabDirection": 3,
+    "theme": {
+      "name": "flgzTheme.json"
+    }
+  },
+  "filtering": {
+    "filters": []
+  },
+  "links": {
+    "linkInfoTooltip": true
+  },
+  "emotes": {
+    "showUnlistedSevenTVEmotes": true
+  },
+  "moderation": {
+    "actions": [
+      {
+        "pattern": "/delete {msg.id}",
+        "icon": ""
+      },
+      {
+        "pattern": "/timeout {user.name} 600",
+        "icon": ""
+      },
+      {
+        "pattern": "/ban {user.name}",
+        "icon": ""
+      }
+    ]
+  },
+  "highlighting": {
+    "elevatedMessageHighlight": {
+      "highlighted": false
+    },
+    "firstMessageHighlight": {
+      "highlighted": true
+    },
+    "firstMessageHighlightColor": "#3cdb27b1",
+    "redeemedHighlight": {
+      "highlighted": false
+    },
+    "selfHighlightColor": "#41db640f",
+    "threadHighlightColor": "#41db640f",
+    "automod": {
+      "soundUrl": "",
+      "color": "#7ff10000"
+    }
+  }
+}
