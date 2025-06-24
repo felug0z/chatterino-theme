@@ -20,4 +20,4 @@ My Chatterino theme + config Okayeg 👍
 
 9. Move "flgzTheme.json" from the ZIP archive to "%appdata%/Chatterino2/Themes".
 
-10. PROFIT! Choose in the Chatterino settings in "Theme" my theme and enjoy.
+10. PROFIT! Launch Chatterino and choose in the settings in "Theme" my theme and enjoy.
